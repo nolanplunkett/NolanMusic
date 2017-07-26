@@ -4,10 +4,10 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Nolan Plunkett Music
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://camporez.github.io
+url:              http://NolanPlunkett.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
